@@ -1,2 +1,8 @@
 # hello-world
-learning github
+
+
+Hi Humans!..
+
+Im new in github..wanna something cools here..
+
+
